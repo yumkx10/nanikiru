@@ -61,6 +61,8 @@ https://docs.google.com/spreadsheets/d/18Ivr34xS1G-7lX88Woo9hqobUCHssKWg-BmQhWe_
 
 # 実装した機能についての画像やGIFおよびその説明
 
+現在、作成中になります。
+
 <br>
 <br>
 
@@ -97,6 +99,6 @@ https://docs.google.com/spreadsheets/d/18Ivr34xS1G-7lX88Woo9hqobUCHssKWg-BmQhWe_
 <br>
 
 # 工夫したポイント
-
+現在、作成中になります。
 <br>
 <br>
