@@ -1,0 +1,12 @@
+.wrapper {
+  display: flex;
+}
+.side-bar {
+  background-color: #cef0f7;
+  width: 250px;
+  height: 100vh;
+}
+.display {
+  background-color: hsla(60, 22%, 96%, 0.966);
+  width: calc(100vw - 250px);
+}
