@@ -19,13 +19,13 @@ https://nanikiru.onrender.com
 
 # テスト用アカウント
 
-・Basic認証パスワード：
+・Basic認証パスワード：1102
 <br>
-・Basic認証ID：
+・Basic認証ID：cordinate
 <br>
-・メールアドレス：
+・メールアドレス：ユーザー管理機能作成中
 <br>
-・パスワード：
+・パスワード：ユーザー管理機能作成中
 <br>
 <br>
 
